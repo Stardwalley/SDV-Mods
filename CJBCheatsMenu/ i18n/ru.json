@@ -25,8 +25,7 @@
     "tools.infinite-water": "Бесконечная вода в лейке",
     "tools.one-hit-break": "Разрушение с одного удара",
     "tools.harvest-with-sickle": "Сбор урожая серпом",
-    "money.title": "Деньги",
-    "money.add-amount": "Добавить {{amount}}з",
+    "money.title": "Деньги"
     "casino-coins.title": "Клубные монеты",
     "casino-coins.add-amount": "Добавить {{amount}}",
 
